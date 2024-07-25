@@ -1,0 +1,123 @@
+.nav{
+    display: flex;
+    column-gap: 200px;
+}
+.A {
+    display: flex;
+}
+.B {
+    display:flex;
+    column-gap: 50px;
+}
+.A1 img{
+    height: 50px;
+    width: 50px;
+}
+  button {
+    margin-left: 50px;
+    text-align: center;
+    background-color: rgb(177, 69, 162);
+    height: 50px;
+    width:200px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.A1{
+    margin-top: 15px;
+}
+.V1 img{
+    height: 600px;
+    width:1400px;
+}
+.V1{
+    margin-left: 10px;
+}
+.V2 h1{
+    text-align: center;
+}
+.V2 p{
+    font-size: 20px;
+    width: 850px;
+    padding-left: 350px;
+
+}
+.V2{
+    margin-top: 50px;
+}
+.v1{
+    margin-top: 20px;
+}
+
+
+.f1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.f2 input{
+    height: 50px;
+    width: 800px;
+    margin-left: 300px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.f3 input{
+    height:50px;
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 50px;
+    height: 80px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+.submit{
+text-align: center;
+margin-top: 100px;
+padding: 30px 30px;
+
+}
+ .submit button:hover{
+    background-color: rgb(228, 152, 152);
+}
+.La1{
+    display: flex;
+    margin-top: 15px;
+} 
+.Lb1 img{
+    height: 50px;
+    width:50px;
+
+}
+.La2 i{
+    font-size: 40px;
+    
+}
+.La2{
+    display: flex;
+    column-gap: 15px;
+    margin-top: 20px;
+}
+.last{
+    display: flex;
+    column-gap: 300px;
+    border:1px solid;
+    margin-top: 20px;
+    height: 300px;
+    font-size: 3opx;
+    
+}
+.para p{
+margin-top: -70px;    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
